@@ -1,0 +1,15 @@
+Homework 3 - Feynman Writing Prompts
+Objects
+    Objects are variables that can contain a lot of data, functions, values, and properties together. 
+
+Properties
+    Properties keep or hold the data in an object.
+
+Methods
+    Methods are the functions in an object. They are the actions that can be performed on objects. 
+
+For in loop
+    The for in loop is able to run a piece of code for each property in an object by iterating over the properties. 
+
+Dot notation vs. Bracket notation
+    These notations are two different ways not accessing the properties of an object and also running a piece of code for each property. The bracket notation is used when the object doesn’t have a valid variable name. If it does have a valid variable name, then dot notation can be used.
